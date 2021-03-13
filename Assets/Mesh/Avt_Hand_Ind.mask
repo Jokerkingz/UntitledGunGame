@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Avt_Hand_Ind
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Bon_Base
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Ind01
+    m_Weight: 1
+  - m_Path: Bon_Base/Bon_Ind01/Bon_Ind02
+    m_Weight: 1
+  - m_Path: Bon_Base/Bon_Ind01/Bon_Ind02/Bon_Ind03
+    m_Weight: 1
+  - m_Path: Bon_Base/Bon_Ind01/Bon_Ind02/Bon_Ind03/Bon_Ind04
+    m_Weight: 1
+  - m_Path: Bon_Base/Bon_Ind01/Bon_Ind02/Bon_Ind03/Bon_Ind04/Bon_Ind05
+    m_Weight: 1
+  - m_Path: Bon_Base/Bon_Ind01/Bon_Ind02/Bon_Ind03/Bon_Ind04/Bon_Ind05/Bon_Ind06
+    m_Weight: 1
+  - m_Path: Bon_Base/Bon_Mid01
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Mid01/Bon_Mid02
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Mid01/Bon_Mid02/Bon_Mid03
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Mid01/Bon_Mid02/Bon_Mid03/Bon_Mid04
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Mid01/Bon_Mid02/Bon_Mid03/Bon_Mid04/Bon_Mid05
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Mid01/Bon_Mid02/Bon_Mid03/Bon_Mid04/Bon_Mid05/Bon_Mid06
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Pnk01
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Pnk01/Bon_Pnk02
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Pnk01/Bon_Pnk02/Bon_Pnk03
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Pnk01/Bon_Pnk02/Bon_Pnk03/Bon_Pnk04
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Pnk01/Bon_Pnk02/Bon_Pnk03/Bon_Pnk04/Bon_Pnk05
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Pnk01/Bon_Pnk02/Bon_Pnk03/Bon_Pnk04/Bon_Pnk05/Bon_Pnk06
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Rng01
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Rng01/Bon_Rng02
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Rng01/Bon_Rng02/Bon_Rng03
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Rng01/Bon_Rng02/Bon_Rng03/Bon_Rng04
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Rng01/Bon_Rng02/Bon_Rng03/Bon_Rng04/Bon_Rng05
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Rng01/Bon_Rng02/Bon_Rng03/Bon_Rng04/Bon_Rng05/Bon_Rng06
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Thm01
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Thm01/Bon_Thm02
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Thm01/Bon_Thm02/Bon_Thm03
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Thm01/Bon_Thm02/Bon_Thm03/Bon_Thm04
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Thm01/Bon_Thm02/Bon_Thm03/Bon_Thm04/Bon_Thm05
+    m_Weight: 0
+  - m_Path: Bon_Base/Bon_Thm01/Bon_Thm02/Bon_Thm03/Bon_Thm04/Bon_Thm05/Bon_Thm06
+    m_Weight: 0
+  - m_Path: Bon_Lock
+    m_Weight: 0
+  - m_Path: Msh_CycleHandV5Fingers
+    m_Weight: 0
